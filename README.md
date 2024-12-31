@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xSupr3me
-- 👀 I’m interested in devloppement
-- 🌱 I’m currently learning C#, PHP
+- 👀 I’m interested in cybersec, devlopment..
+- 🌱 I’m currently learning JS, PHP, C# and a lot of things
 - 💞️ I’m looking to collaborate on OpenSource projects
 - 📫 How to reach me ? On discord at supr3me.
 
